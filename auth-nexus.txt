@@ -1,0 +1,8 @@
+textual 
+aiohttp 
+rich 
+beautifulsoup4 
+lxml 
+asyncssh 
+uvloop
+aiohttp-socks
