@@ -429,6 +429,19 @@ AUTH-NEXUS
 
 ---
 
+## 📃 Note
+
+**Edit CSS Code as your wish.**
+
+**If you found textual library install problem in kali linux machines or debian machines**
+- use
+```
+pip install textual --break-system-packages --ignore-installed pygments
+```
+
+---
+
+
 # 🛡 Security Notice
 
 This tool is developed for:
