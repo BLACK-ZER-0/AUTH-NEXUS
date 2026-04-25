@@ -459,6 +459,14 @@ Auth Nexus
 │   ├── Pitchfork
 │   └── Battering Ram
 │
+├── WordForge ⚒️
+│   ├── Custom Charset Builder
+│   ├── Length Range Control
+│   ├── Combination Estimation
+│   ├── High-Speed Generator
+│   ├── File Output (list/)
+│   └── Auto Integration (User/Pass List)
+│
 ├── Networking
 │   ├── Async Requests
 │   ├── Proxy Support
@@ -469,6 +477,7 @@ Auth Nexus
     ├── Live Logs
     ├── Progress Tracking
     └── Results Display
+
 ```
 
 ---
